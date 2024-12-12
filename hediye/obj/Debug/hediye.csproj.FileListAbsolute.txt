@@ -1,0 +1,10 @@
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.csproj.AssemblyReference.cache
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.Form1.resources
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.Properties.Resources.resources
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.csproj.GenerateResource.cache
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.csproj.CoreCompileInputs.cache
+C:\Users\E\source\repos\hediye\hediye\bin\Debug\hediye.exe.config
+C:\Users\E\source\repos\hediye\hediye\bin\Debug\hediye.exe
+C:\Users\E\source\repos\hediye\hediye\bin\Debug\hediye.pdb
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.exe
+C:\Users\E\source\repos\hediye\hediye\obj\Debug\hediye.pdb
